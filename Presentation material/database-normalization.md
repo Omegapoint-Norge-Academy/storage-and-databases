@@ -39,3 +39,5 @@ Database normalization is a process used in designing a database schema to minim
 - **Purpose**: To handle temporal data requirements effectively.
 
 Normalization is a balance between optimizing data storage and access speed. Over-normalization can lead to complex joins that might slow down data retrieval, whereas under-normalization can cause data redundancy and inconsistency. The goal is to design a database that is efficient, maintainable, and scalable, meeting the data integrity and performance requirements of the applications it supports.
+
+<div align="right">This content was created by ChatGPT-4</div>
