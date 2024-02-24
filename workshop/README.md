@@ -79,3 +79,5 @@ To prepare for the workshop create the following in Azure:
 The following Slack channel "#app-storage-and-databases" has been created for communicating with the course members.
 Ask the course members to join this channel for easier access to information related to the course.
 In this channel, we have pinned the relevant information about this course.
+
+![Artists, songs & concerts](Database.webp)
