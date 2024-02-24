@@ -1,16 +1,16 @@
 # Part 2: Create tables and queries
 
-## Connect to your team's databse
+## Connect to your team's database
 
 1. Ask the course instructor for a connection string to the Azure database you are going to work with
-2. Start the "Azure Data Studio" and log on to the database with  using the provided connections string:
+2. Start the "Azure Data Studio" and log on to the database using the provided connections string:
    1. Select "New -> New connection"
-   2. Select "Connection type" : "Microsoft SQL Server"
-   3. Select "Input type" : "Connection String"
+   2. Select "Connection type": "Microsoft SQL Server"
+   3. Select "Input type": "Connection String"
    4. Insert the connection string into the "Connection string" text box
    5. Leave the other fields with the default values
 
-## Create SQL scripts to create the different entites and the relations between them
+## Create SQL scripts to create the different entities and the relations between them
 
 The following tables and columns should be created
 
