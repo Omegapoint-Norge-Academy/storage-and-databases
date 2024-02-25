@@ -14,3 +14,7 @@ Without using your favorite AI service ;-), create the following reports:
       2. The title of the song
       3. The length of the song in minutes and seconds (Ex. '04:21')
    5. Get all songs for a specific concert (ConcertId) that are performed by at least two artists
+
+## Tip: Good tutorial on SQL
+
+ [W3Schools SQL - Select](https://www.w3schools.com/sql/sql_select.asp)
