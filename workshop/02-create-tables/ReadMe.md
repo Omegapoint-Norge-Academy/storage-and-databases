@@ -58,6 +58,6 @@ Concert_Artist_Song (link-table):
 - ConcertArtistId (Integer - Foreign key)
 - ConcertSongId (Integer - Foreign key)
 
-## Tip: Good tutorial on SQL
+## Tip: A good tutorial on SQL
 
  [W3Schools SQL - Create table](https://www.w3schools.com/sql/sql_create_table.asp)
