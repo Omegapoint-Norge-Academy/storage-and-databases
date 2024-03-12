@@ -61,6 +61,7 @@ To prepare for the workshop create the following in Azure:
     - Firewall rules: `Add your client IPv4 address ([Your IPv4 address])`
     - Save
 - Go to the newly created SQL Server Azure resource and create a database for each team:
+  - From the `Overview` right tile click the `+ Create Database` button
   - Database name: `Team[Number]`
   - Workload environment: `Development`
   - Compute + Storage: `Configure`
@@ -68,7 +69,7 @@ To prepare for the workshop create the following in Azure:
     - Compute tier: `Serverless`
     - Data max size (GB): `1`
   - Leave all other fields with default values
-  - Click `Review and create`
+  - Click `Review and Create` and then `Create`
   - The teams need the connection string to their database:
     - Select the newly created database resource
     - Select the `Connection strings` option under the `Settings` option group in the left pane
