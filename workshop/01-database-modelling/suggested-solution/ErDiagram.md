@@ -13,7 +13,8 @@ erDiagram
     ARTIST ||--o{ CONSERT_ARTIST : attends
     CONSERT ||--|{ CONSERT_SONG : "consists of"
     SONG ||--|{ CONSERT_SONG : "played at"
-    ARTIST ||--|{ CONSERT_ARTIST_SONG : "performs"
+    CONSERT_ARTIST ||--|{ CONSERT_ARTIST_SONG : "performs"
+    CONSERT_SONG ||--|{ CONSERT_ARTIST_SONG : "performed at"
 ```
 
 Artist
