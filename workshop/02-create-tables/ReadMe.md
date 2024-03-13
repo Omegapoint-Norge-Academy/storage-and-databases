@@ -33,6 +33,7 @@ Artist:
 - ArtistId (Integer - Primary key)
 - FirstName (Varchar - Length: 255)
 - LastName (Varchar - Length: 255)
+- BirthDate (Date)
 
 Song:
 
